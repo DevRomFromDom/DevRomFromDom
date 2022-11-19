@@ -1,4 +1,13 @@
 ### Hi there 👋
+I know React, Vue, Python and NodeJs. Just study for now, but trying to see to the future =)
+
+🔭 I’m currently learning to develop web apps with Python (Django). I want to connect Python and React together, and make cool project with it. 
+
+⚡Skills and tools: 
+ - 📖Frontend: JavaScript (TypeScript), React, Vue, SCSS, Pug, Jest, WebPack, npm and yarn. 
+ - 🤖Backend: Python, NodeJs, Django, Docker, Rest Api, Nginx, Jest, PostgreSQL. 
+ - 🖋️Tools: VSCode, Git, Windows, Linux.
+
 
 <!--
 **DevRomFromDom/DevRomFromDom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
