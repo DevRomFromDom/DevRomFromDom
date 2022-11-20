@@ -1,5 +1,4 @@
 ### Hi there 👋
-I know React, Vue, Python and NodeJs. Just study for now, but trying to see to the future =)
 
 🔭 I’m currently learning to develop web apps with Python (Django). I want to connect Python and React together, and make cool project with it. 
 
